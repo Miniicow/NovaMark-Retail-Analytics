@@ -1,4 +1,4 @@
-# NovaMark-Retail-Analytics
+# NovaMark-Retail-Analytics <img src="https://github.com/user-attachments/assets/2fb7ee94-74df-4839-811f-4487f546a435" width="50px" height="50px">
 
 Autores  
 - [Samuel Escalante](https://github.com/SamuelEscalante)
