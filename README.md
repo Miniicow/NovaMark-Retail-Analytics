@@ -2,7 +2,16 @@
 
 Este repositorio contiene el diseño y desarrollo de una base de datos para la gestión eficiente de una cadena de tiendas retail, abordando aspectos de ventas, inventario, clientes y empleados. El proyecto integra el diseño de un modelo relacional, la creación de datos representativos, y un dashboard interactivo en Power BI para análisis y visualización.  
 
+Autores  
+- [Samuel Escalante](https://github.com/SamuelEscalante)
+- [Manuela Mayorga]().
+- [Lizzy Vega](https://github.com/Lizzy-Vega).
+- [Freddy Narvaez]()
+- **Equipo de Analistas de Datos**
+
 ---
+## Bienvenido 
+
 
 ## Contenido del Proyecto  
 
@@ -29,10 +38,11 @@ Este repositorio contiene el diseño y desarrollo de una base de datos para la g
 ---
 ## Herramientas Utilizadas  
 
-- ![SQL Server](https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png) **Base de Datos**: SQL Server  
-- ![Power BI](https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png) **Visualización**: Power BI  
-- ![SQL](https://www.techmonitor.ai/wp-content/uploads/sites/29/2016/06/SQL.png) **Lenguaje SQL**: Creación y carga de tablas  
-- ![CSV](https://cdn-icons-png.flaticon.com/512/8242/8242984.png) **Data Sources**: Archivos CSV generados manualmente o mediante herramientas de data dinámica
+- ![SQL Server](https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png) <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" alt="SQL Server" width="25px" height="25px"> **Base de Datos**: SQL Server  
+- ![Power BI](https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png) <img src="https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" alt="Power BI" width="25px" height="25px"> **Visualización**: Power BI  
+- ![SQL](https://www.techmonitor.ai/wp-content/uploads/sites/29/2016/06/SQL.png) <img src="https://www.techmonitor.ai/wp-content/uploads/sites/29/2016/06/SQL.png" alt="SQL" width="25px" height="25px"> **Lenguaje SQL**: Creación y carga de tablas  
+- ![CSV](https://cdn-icons-png.flaticon.com/512/8242/8242984.png) <img src="https://cdn-icons-png.flaticon.com/512/8242/8242984.png" alt="CSV" width="25px" height="25px"> **Data Sources**: Archivos CSV generados manualmente o mediante herramientas de data dinámica  
+
 
 ---
 ## Cómo Usar el Repositorio  
@@ -42,12 +52,5 @@ Este repositorio contiene el diseño y desarrollo de una base de datos para la g
    git clone https: https://github.com/Miniicow/NovaMark-Retail-Analytics.git
    cd NovaMark-Retail-Analytics
    
----
-## Autores  
-- [Samuel Escalante](https://github.com/SamuelEscalante)
-- [Manuela Mayorga]().
-- [Lizzy Vega](https://github.com/Lizzy-Vega).
-- [Freddy Narvaez]()
-- **Equipo de Analistas de Datos**
 
 
