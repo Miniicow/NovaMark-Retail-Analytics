@@ -5,7 +5,6 @@ Autores
 - [Manuela Mayorga](https://github.com/Miniicow)
 - [Lizzy Vega](https://github.com/Lizzy-Vega)
 - [Freddy Narvaez]()
-- **Equipo de Analistas de Datos**
 
 ---
 ## Bienvenido 
@@ -55,6 +54,6 @@ Herramienras utilizadas:
    ```bash
    cd NovaMark-Retail-Analytics
    ```
-   
 
+## ¡Gracias por visitar el repositorio! Si te ha sido útil este proyecto, por favor, considera darle una estrella ⭐
 
