@@ -10,7 +10,7 @@ Autores
 ## Bienvenido 
 Este repositorio contiene el diseño y desarrollo de una base de datos para la gestión eficiente de una cadena de tiendas retail, abordando aspectos de ventas, inventario, clientes y empleados. El proyecto integra el diseño de un modelo relacional, la creación de datos representativos, y un dashboard interactivo en Power BI para análisis y visualización.  
 
-Herramienras utilizadas:
+Herramientas utilizadas:
 - _SQL Server_ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="SQL Server" width="21px" height="21px"> 
 - _CSV_  <img src="https://cdn-icons-png.flaticon.com/512/8242/8242984.png" alt="Jupyer" width="21px" height="21px">
 - _PowerBi_ <img src="https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" alt="Postgres" width="21px" height="21px">
