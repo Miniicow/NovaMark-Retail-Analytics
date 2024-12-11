@@ -18,6 +18,8 @@ Herramientas utilizadas:
 
 ## Workflow
 
+![image](https://github.com/user-attachments/assets/3e3b31c8-8738-4837-a98c-878e8f7b4c72)
+
 ## Objetivos
 - Diseñar la estructura de la base de datos para gestionar productos, ventas, clientes y empleados.
 - Crear scripts SQL para generar y poblar las tablas necesarias.
