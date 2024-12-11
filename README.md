@@ -4,7 +4,7 @@ Autores
 - [Samuel Escalante](https://github.com/SamuelEscalante)
 - [Manuela Mayorga](https://github.com/Miniicow)
 - [Lizzy Vega](https://github.com/Lizzy-Vega)
-- [Freddy Narvaez]()
+- [Freddy Narvaez](https://github.com/F-Narvaez)
 
 ---
 ## Bienvenido 
