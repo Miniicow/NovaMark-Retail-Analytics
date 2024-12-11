@@ -16,6 +16,8 @@ Herramienras utilizadas:
 - _PowerBi_ <img src="https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" alt="Postgres" width="21px" height="21px">
 - _Python_  <img src="https://cdn-icons-png.flaticon.com/128/3098/3098090.png" alt="Python" width="21px" height="21px">
 
+## Diagrama de Trabajo
+
 ## Objetivos
 - Diseñar la estructura de la base de datos para gestionar productos, ventas, clientes y empleados.
 - Crear scripts SQL para generar y poblar las tablas necesarias.
