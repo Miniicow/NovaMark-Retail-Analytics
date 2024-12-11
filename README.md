@@ -2,8 +2,8 @@
 
 Autores  
 - [Samuel Escalante](https://github.com/SamuelEscalante)
-- [Manuela Mayorga]().
-- [Lizzy Vega](https://github.com/Lizzy-Vega).
+- [Manuela Mayorga](https://github.com/Miniicow)
+- [Lizzy Vega](https://github.com/Lizzy-Vega)
 - [Freddy Narvaez]()
 - **Equipo de Analistas de Datos**
 
@@ -12,10 +12,16 @@ Autores
 Este repositorio contiene el diseño y desarrollo de una base de datos para la gestión eficiente de una cadena de tiendas retail, abordando aspectos de ventas, inventario, clientes y empleados. El proyecto integra el diseño de un modelo relacional, la creación de datos representativos, y un dashboard interactivo en Power BI para análisis y visualización.  
 
 Herramienras utilizadas:
-- _SQL Server_ <img src="https://www.flaticon.es/icono-gratis/servidor-sql_5815478?related_id=5815478" alt="SQL Server" width="21px" height="21px"> 
+- _SQL Server_ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="SQL Server" width="21px" height="21px"> 
 - _CSV_  <img src="https://cdn-icons-png.flaticon.com/512/8242/8242984.png" alt="Jupyer" width="21px" height="21px">
 - _PowerBi_ <img src="https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" alt="Postgres" width="21px" height="21px">
-- _Python_  <img src="https://cdn-icons-png.flaticon.com/128/3098/3098090.png" alt="Python" width="21px" height="21px"> 
+- _Python_  <img src="https://cdn-icons-png.flaticon.com/128/3098/3098090.png" alt="Python" width="21px" height="21px">
+
+## Objetivos
+- Diseñar la estructura de la base de datos para gestionar productos, ventas, clientes y empleados.
+- Crear scripts SQL para generar y poblar las tablas necesarias.
+- Desarrollar un dashboard en Power BI para visualizar ventas y desempeño por sucursal.
+  
 ## Contenido del Proyecto  
 
 ### 1. **Diagrama Entidad-Relación (ERD)**  
@@ -44,7 +50,11 @@ Herramienras utilizadas:
 1. **Clonar el repositorio**:  
    ```bash
    git clone https: https://github.com/Miniicow/NovaMark-Retail-Analytics.git
+   ```
+2. **Ir al directorio del proyecto**
+   ```bash
    cd NovaMark-Retail-Analytics
+   ```
    
 
 
