@@ -45,7 +45,7 @@ Dashboard interactivo que permite:
   - Visualizar tendencias de ventas, productos más vendidos, y análisis de clientes.  
   - Generar reportes de desempeño de empleados y sucursales.  
 
-- **Link de acceso al dashboard publicado**: **[Enlace al Dashboard](#)**   
+- **Link de acceso al dashboard publicado**: **[Enlace al Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTdlZDg5NWEtZWE0OS00NzEyLTllNDQtNzkyNDIxYjNhZDdkIiwidCI6IjY5M2NiZWEwLTRlZjktNDI1NC04OTc3LTc2ZTA1Y2I1ZjU1NiIsImMiOjR9)**   
 
 ---
 ## Cómo Usar el Repositorio  
